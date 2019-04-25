@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/bakerolls/nibble"
+	"github.com/bake/nibble"
 )
 
 func TestWriter_Write(t *testing.T) {
